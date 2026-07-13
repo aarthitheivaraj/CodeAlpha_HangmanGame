@@ -94,6 +94,6 @@ Attempts Left: 5
 
 ## Author
 
-**Aarthi Theivaraj**
+**Aarthitheivaraj**
 
 CodeAlpha Python Programming Internship
